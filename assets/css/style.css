@@ -14,7 +14,8 @@ color:#B1841D
 }
 .logoCont .logo{
 display: inline-block;
-width:100%;
+width:80%;
+margin:0 auto
 
 }
 img{
@@ -133,6 +134,9 @@ footer{
 .cardImg{width:35%;}
 .form-control.inline.cardForm{
     width:100%
+}
+.logo{
+    width:100%;
 }
 .PodCard {
     background-color: #4C9D2A;
