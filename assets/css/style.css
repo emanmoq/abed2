@@ -78,13 +78,14 @@ img{
     border-bottom: 1px dashed gray;
     border-radius: 0;;
 }
-.label,.form-control::placeholder{
+.label{
     display:block;
     font-size: 18px;
     font-weight: 500;
     margin:0;
     color:black;
 }
+
 .label.inline{
     display: inline-block;
     
